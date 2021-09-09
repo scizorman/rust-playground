@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "path": "guessing_game"
+    },
+    {
+      "path": "hello"
+    }
+  ],
+  "settings": {
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "rust.cfg_test": true,
+    "[rust]": {
+      "editor.formatOnSave": true,
+      "editor.tabSize": 4
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "rust-lang.rust"
+    ]
+  }
+}
