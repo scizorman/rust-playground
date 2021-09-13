@@ -5,6 +5,9 @@
     },
     {
       "path": "hello"
+    },
+    {
+      "path": "rocket-pastebin"
     }
   ],
   "settings": {
